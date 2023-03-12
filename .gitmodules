@@ -1,3 +1,7 @@
-[submodule "servidor"]
+[submodule "server"]
 	path = server
 	url = https://github.com/BloodBoy21/dotShareServer.git
+
+[submodule "app"]
+        path = app
+        url = https://github.com/MrGab0uwu/dotShareApp.git
